@@ -121,10 +121,8 @@ section{
 .third-section-container{
     height: 600px;
     
-    
     background-image: url(images/Vectorrr.png),linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
     background-blend-mode: overlay;
-    
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -134,14 +132,16 @@ section{
 }
 
 .third-section-items{
-   display: flex;
+     display: flex;
+  
     gap: 40px;
-    margin: 70px 120px;
+    padding: 70px 120px;
 }
 
 .third-section-content{
     width: 642px;
     margin-top: 50px;
+    
   
 }
 
@@ -172,5 +172,9 @@ section{
     margin-left: 50px;
 }
 .third-section-image{
-    width:349.16px
+    width:349.16px; 
+    height: 600px;
+ 
+    
+
 }
