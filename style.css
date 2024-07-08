@@ -433,3 +433,83 @@ font-weight: 600;
 border-radius: 0px 50px 50px 0px;
 
 }
+
+.footer-container{
+   
+height: 609px;
+background: rgb(7, 2, 17);
+border: 2px solid red;
+padding: 120px 140px;
+
+}
+
+.address p{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+
+}
+
+.contact{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;   
+}
+
+.footer-first-section{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid green;
+}
+
+hr{
+    margin: 50px 0px;
+}
+
+.social-icon{
+    width: 400px;
+    border: 2px solid red;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social-icon i{
+    font-size: 50px;
+   
+
+
+}
+
+.red-color{
+    color: red;
+}
+
+.sky-color{
+    color:rgb(40, 55, 192)
+}
+
+.pink-color{
+    color: rgb(197, 37, 90);
+}
+
+.blue-color{
+    color: blue;
+}
+
+.footer-end-text{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-end-text p{
+    color: white;
+}
+
+
+
+
